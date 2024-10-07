@@ -1,0 +1,107 @@
+[{
+  "_id": {
+    "$oid": "6672a3dc9797a64bc698e1bc"
+  },
+  "nome": "Federica",
+  "cognome": "Fanfoni",
+  "email": "federica.fanfoni@gmail.com",
+  "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+  "ordini": [
+    {
+      "dati_spedizione": {
+        "nome": "Federica",
+        "cognome": "Fanfoni",
+        "indirizzo": {
+          "via_civico": "via ABC, 17",
+          "cap": "00012",
+          "citta": "Guidonia",
+          "provincia": "RM",
+          "paese": "Italia"
+        },
+        "telefono": "3274410170",
+        "email": "federica.fanfoni@gmail.com",
+        "spedizione_veloce": true
+      },
+      "ordine": [
+        {
+          "nome": "Bushido GTX",
+          "attivita": "Mountain Running®",
+          "prezzo": 200,
+          "prezzo_finale": 200,
+          "taglia": "38",
+          "colore": "Green",
+          "immagine": "../../assets/image/bushidoGTXResize.webp",
+          "quantita": 1
+        },
+        {
+          "nome": "Tempesta GTX",
+          "attivita": "Mountain Running®",
+          "prezzo": 100,
+          "prezzo_finale": 100,
+          "taglia": "40",
+          "colore": "Black/Yellow",
+          "immagine": "../../assets/image/tempestaGTXResize.webp",
+          "quantita": 1
+        },
+        {
+          "nome": "Lucendro Thermal Hoody",
+          "attivita": "Alpinismo",
+          "prezzo": 190,
+          "prezzo_finale": 190,
+          "taglia": "41",
+          "colore": "Blue",
+          "immagine": "../../assets/image/lucendroThermalHoodyResize.webp",
+          "quantita": 1
+        }
+      ],
+      "metodo_pagamento": "Carta Mastercard",
+      "costo_spedizione": 15,
+      "totale": 505,
+      "data_ordine": "20/06/2024",
+      "data_spedizione": "22/06/2024"
+    },
+    {
+      "dati_spedizione": {
+        "nome": "Federica",
+        "cognome": "Fanfoni",
+        "indirizzo": {
+          "via_civico": "via ABCD, 17",
+          "cap": "00012",
+          "citta": "Guidonia",
+          "provincia": "RM",
+          "paese": "Italia"
+        },
+        "telefono": "2374410170",
+        "email": "federica.fanfoni@gmail.com",
+        "spedizione_veloce": true
+      },
+      "ordine": [
+        {
+          "nome": "Bushido III",
+          "attivita": "Mountain Running®",
+          "prezzo": 175,
+          "prezzo_finale": 175,
+          "taglia": "43",
+          "colore": "Red",
+          "immagine": "../../assets/image/bushidoIIIResize.webp",
+          "quantita": 1
+        },
+        {
+          "nome": "Katana",
+          "attivita": "Arrampicata",
+          "prezzo": 170,
+          "prezzo_finale": 170,
+          "taglia": "43",
+          "colore": "Black/Yellow",
+          "immagine": "../../assets/image/katanaResize.webp",
+          "quantita": 1
+        }
+      ],
+      "metodo_pagamento": "Carta Mastercard",
+      "costo_spedizione": 15,
+      "totale": 360,
+      "data_ordine": "20/06/2024",
+      "data_spedizione": "22/06/2024"
+    }
+  ]
+}]

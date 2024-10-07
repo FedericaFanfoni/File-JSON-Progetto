@@ -1,0 +1,1725 @@
+[{
+  "_id": {
+    "$oid": "66575589a8bd395db7fc2b7a"
+  },
+  "nome": "Tarantula",
+  "attivita": "Arrampicata",
+  "prezzo": 95,
+  "taglie_disponibili": [
+    "35",
+    "37",
+    "39",
+    "40",
+    "41",
+    "43"
+  ],
+  "colori_disponibili": [
+    "Red",
+    "Green",
+    "Black/Yellow",
+    "Blue/Black"
+  ],
+  "descrizione": "Update estetico di Tarantula, scarpetta polivalente ideale per chi si avvicina al mondo dell’arrampicata e per utilizzo nelle palestre. Allacciatura a strap veloce e funzionale, forma neutrale adatta a tutti i tipi di piede.",
+  "immagine": [
+    "../../assets/image/tarantulaResize.webp",
+    "../../assets/image/tarantula.webp",
+    "../../assets/image/tarantulaLarge.webp",
+    "../../assets/image/tarantulaExtra.webp",
+    "../../assets/image/tarantulaFrontResize.webp",
+    "../../assets/image/tarantulaFront.webp",
+    "../../assets/image/tarantulaLatoResize.webp",
+    "../../assets/image/tarantulaLato.webp"
+  ],
+  "nuovo_arrivo": false,
+  "best_seller": 5
+},
+{
+  "_id": {
+    "$oid": "665755a4a8bd395db7fc2b7c"
+  },
+  "nome": "Bushido GTX",
+  "attivita": "Mountain Running®",
+  "prezzo": 200,
+  "taglie_disponibili": [
+    "35",
+    "38",
+    "40",
+    "43",
+    "44",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Blue/Black",
+    "Blue",
+    "Black/Yellow",
+    "Red",
+    "Green"
+  ],
+  "descrizione": "Versione in membrana GORE-TEX invisible fit del calssico modello da Mountain Running® Bushido II. Dedicata al mondo delle gare skyraces e pensata per utilizzi nei mesi invernali è super leggera, grippante, aggressiva ed è concepita per garantire una perfetta stabilità in appoggio su tutti i tipi di terreni off-road.",
+  "immagine": [
+    "../../assets/image/bushidoGTXResize.webp",
+    "../../assets/image/bushidoGTX.webp",
+    "../../assets/image/bushidoGTXLarge.webp",
+    "../../assets/image/bushidoGTXExtra.webp",
+    "../../assets/image/bushidoGTXFrontResize.webp",
+    "../../assets/image/bushidoGTXFront.webp",
+    "../../assets/image/bushidoGTXLatoResize.webp",
+    "../../assets/image/bushidoGTXLato.webp"
+  ],
+  "nuovo_arrivo": true,
+  "best_seller": 5
+},
+{
+  "_id": {
+    "$oid": "665755eba8bd395db7fc2b7e"
+  },
+  "nome": "Tempesta GTX",
+  "attivita": "Mountain Running®",
+  "prezzo": 100,
+  "taglie_disponibili": [
+    "37",
+    "38",
+    "39",
+    "40",
+    "43",
+    "44"
+  ],
+  "colori_disponibili": [
+    "Black",
+    "Blue",
+    "Red",
+    "Black/Yellow"
+  ],
+  "descrizione": "Calzatura impermeabile da Winter Running pensata per allenamenti ed utilizzo quotidiano nei mesi invernali in vista delle skyraces primaverili. Versatile, leggera e rapida da calzare grazie alla costruzione Sock-Shield è perfetta per la corsa su diversi tipi di terreno off-road grazie alla suola chiodabile con At Grip Spikes.",
+  "immagine": [
+    "../../assets/image/tempestaGTXResize.webp",
+    "../../assets/image/tempestaGTX.webp",
+    "../../assets/image/tempestaGTXLarge.webp",
+    "../../assets/image/tempestaGTXExtra.webp",
+    "../../assets/image/tempestaGTXFrontResize.webp",
+    "../../assets/image/tempestaGTXFront.webp",
+    "../../assets/image/tempestaGTXLatoResize.webp",
+    "../../assets/image/tempestaGTXLato.webp"
+  ],
+  "nuovo_arrivo": true,
+  "best_seller": 4
+},
+{
+  "_id": {
+    "$oid": "6657560fa8bd395db7fc2b80"
+  },
+  "nome": "TX4 Mid GTX",
+  "attivita": "Escursionismo",
+  "prezzo": 185,
+  "taglie_disponibili": [
+    "36",
+    "37",
+    "39",
+    "41",
+    "42",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Turquoise",
+    "Red",
+    "Blue/Black",
+    "Blue"
+  ],
+  "descrizione": "Dedicata agli escursionisti che cercano leggerezza, traspirabilità e che con passione vivono l’outdoor, ampliando sempre i propri orizzonti.",
+  "immagine": [
+    "../../assets/image/TX4MidGTXResize.webp",
+    "../../assets/image/TX4MidGTX.webp",
+    "../../assets/image/TX4MidGTXLarge.webp",
+    "../../assets/image/TX4MidGTXExtra.webp",
+    "../../assets/image/TX4MidGTXFrontResize.webp",
+    "../../assets/image/TX4MidGTXFront.webp",
+    "../../assets/image/TX4MidGTXLatoResize.webp",
+    "../../assets/image/TX4MidGTXLato.webp"
+  ],
+  "nuovo_arrivo": true,
+  "best_seller": 2
+},
+{
+  "_id": {
+    "$oid": "6657562ea8bd395db7fc2b82"
+  },
+  "nome": "Skwama Vegan",
+  "attivita": "Arrampicata",
+  "prezzo": 165,
+  "taglie_disponibili": [
+    "38",
+    "40",
+    "41",
+    "42",
+    "43",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Green",
+    "Blue",
+    "Red",
+    "Black"
+  ],
+  "descrizione": "Scarpetta d'arrampicata pensata per le massime performance e realizzata senza l'utilizzo di materiali di derivazione animale. Il sottopiede in microfibra SkinLike™ fornisce sensazioni e prestazioni del tutto paragonabili al classico sottopiede in pelle.",
+  "immagine": [
+    "../../assets/image/skwamaVeganResize.webp",
+    "../../assets/image/skwamaVegan.webp",
+    "../../assets/image/skwamaVeganLarge.webp",
+    "../../assets/image/skwamaVeganExtra.webp",
+    "../../assets/image/skwamaVeganFrontResize.webp",
+    "../../assets/image/skwamaVeganFront.webp",
+    "../../assets/image/skwamaVeganLatoResize.webp",
+    "../../assets/image/skwamaVeganLato.webp"
+  ],
+  "nuovo_arrivo": true,
+  "best_seller": 4
+},
+{
+  "_id": {
+    "$oid": "66575648a8bd395db7fc2b84"
+  },
+  "nome": "Lucendro Thermal Hoody",
+  "attivita": "Alpinismo",
+  "prezzo": 190,
+  "taglie_disponibili": [
+    "38",
+    "39",
+    "40",
+    "41",
+    "43",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Blue",
+    "Orange",
+    "Red",
+    "Turquoise",
+    "Black"
+  ],
+  "descrizione": "Secondo strato con cappuccio, tecnico e funzionale, in Pontetorto® TechStretch&trade effetto Waffel. Materiale altamente elastico, traspirante e ad asciugatura rapida per il massimo comfort.",
+  "immagine": [
+    "../../assets/image/lucendroThermalHoodyResize.webp",
+    "../../assets/image/lucendroThermalHoody.webp",
+    "../../assets/image/lucendroThermalHoodyLarge.webp",
+    "../../assets/image/lucendroThermalHoodyExtra.webp",
+    "../../assets/image/lucendroThermalHoodyRetroResize.webp",
+    "../../assets/image/lucendroThermalHoodyRetro.webp",
+    "../../assets/image/lucendroThermalHoodyFrontResize.webp",
+    "../../assets/image/lucendroThermalHoodyFront.webp"
+  ],
+  "nuovo_arrivo": false,
+  "best_seller": 4
+},
+{
+  "_id": {
+    "$oid": "66575670a8bd395db7fc2b86"
+  },
+  "nome": "Alpine Guide GTX",
+  "attivita": "Alpinismo",
+  "prezzo": 580,
+  "taglie_disponibili": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+  ],
+  "colori_disponibili": [
+    "Red",
+    "Blue",
+    "Turquoise"
+  ],
+  "descrizione": "Grazie alla combinazione di GORE-TEX ProShell e GORE-TEX ActiveShell questa giacca di protezione porta la vestibilità al massimo della comodità. Dotata di dettagli tecnici, la giacca Alpine Guide GTX protegge al massimo durante le imprese sulle alte quote delle Alpi.",
+  "immagine": [
+    "../../assets/image/alpineGuideGTXResize.webp",
+    "../../assets/image/alpineGuideGTX.webp",
+    "../../assets/image/alpineGuideGTXLarge.webp",
+    "../../assets/image/alpineGuideGTXExtra.webp",
+    "../../assets/image/alpineGuideGTXRetroResize.webp",
+    "../../assets/image/alpineGuideGTXRetro.webp",
+    "../../assets/image/alpineGuideGTXFrontResize.webp",
+    "../../assets/image/alpineGuideGTXFront.webp"
+  ],
+  "nuovo_arrivo": false,
+  "best_seller": 5
+},
+{
+  "_id": {
+    "$oid": "66575687a8bd395db7fc2b88"
+  },
+  "nome": "Katana",
+  "attivita": "Arrampicata",
+  "prezzo": 170,
+  "taglie_disponibili": [
+    "35",
+    "38",
+    "40",
+    "41",
+    "43",
+    "44"
+  ],
+  "colori_disponibili": [
+    "Black/Yellow",
+    "Blue/Black"
+  ],
+  "descrizione": "L'equilibrio perfetto tra sensibilità, precisione e sostegno del peso. La scarpetta polivalente per eccellenza con allacciatura a doppio strap contrapposto.",
+  "immagine": [
+    "../../assets/image/katanaResize.webp",
+    "../../assets/image/katana.webp",
+    "../../assets/image/katanaLarge.webp",
+    "../../assets/image/katanaExtra.webp",
+    "../../assets/image/katanaFrontResize.webp",
+    "../../assets/image/katanaFront.webp",
+    "../../assets/image/katanaLatoResize.webp",
+    "../../assets/image/katanaLato.webp"
+  ],
+  "nuovo_arrivo": true,
+  "best_seller": 5
+},
+{
+  "_id": {
+    "$oid": "6657569da8bd395db7fc2b8a"
+  },
+  "nome": "Ultra Raptor II Wide",
+  "attivita": "Escursionismo",
+  "prezzo": 100,
+  "taglie_disponibili": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+  ],
+  "colori_disponibili": [
+    "Orange",
+    "Turquoise",
+    "Red",
+    "Blue"
+  ],
+  "descrizione": "Re-edit estetico dell’iconico modello Ultra Raptor, calzatura da trail running sviluppata per percorsi off-road a lunga distanza e sessioni di allenamento prolungate.",
+  "immagine": [
+    "../../assets/image/ultraRaptorIIWideResize.webp",
+    "../../assets/image/ultraRaptorIIWide.webp",
+    "../../assets/image/ultraRaptorIIWideLarge.webp",
+    "../../assets/image/ultraRaptorIIWideExtra.webp",
+    "../../assets/image/ultraRaptorIIWideFrontResize.webp",
+    "../../assets/image/ultraRaptorIIWideFront.webp",
+    "../../assets/image/ultraRaptorIIWideLatoResize.webp",
+    "../../assets/image/ultraRaptorIIWideLato.webp"
+  ],
+  "nuovo_arrivo": true,
+  "best_seller": 2
+},
+{
+  "_id": {
+    "$oid": "665756cca8bd395db7fc2b8c"
+  },
+  "nome": "Mistral",
+  "attivita": "Arrampicata",
+  "prezzo": 130,
+  "taglie_disponibili": [
+    "38",
+    "40",
+    "41",
+    "43",
+    "44",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Green",
+    "Orange",
+    "Blue",
+    "Red",
+    "Black/Yellow"
+  ],
+  "descrizione": "Scarpetta d'arrampicata con chiusura a doppio velcro incrociato dedicata agli scalatori in fase di evoluzione che ricercano un prodotto versatile. Prodotto ideale per migliorare la propria tecnica e per scalare indoor e outdoor. Tomaia e sottopiede sono realizzati interamente senza l'utilizzo di materiali di origine animale.",
+  "immagine": [
+    "../../assets/image/mistralResize.webp",
+    "../../assets/image/smistral.webp",
+    "../../assets/image/mistralLarge.webp",
+    "../../assets/image/mistralExtra.webp",
+    "../../assets/image/mistralFrontResize.webp",
+    "../../assets/image/mistralFront.webp",
+    "../../assets/image/mistralLatoResize.webp",
+    "../../assets/image/mistralLato.webp"
+  ],
+  "nuovo_arrivo": true,
+  "best_seller": 5
+},
+{
+  "_id": {
+    "$oid": "665756e0a8bd395db7fc2b8e"
+  },
+  "nome": "Aequilibrium Insulation Hoody",
+  "attivita": "Alpinismo",
+  "prezzo": 240,
+  "taglie_disponibili": [
+    "38",
+    "39",
+    "40",
+    "41",
+    "43",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Orange",
+    "Black/Yellow",
+    "Blue",
+    "Black"
+  ],
+  "descrizione": "Capo termico e ultra leggero utilizzabile tutto l’anno come capo termico complementare, durante ascese dinamiche in alta montagna. La combinazione della fibra di Primaloft® e della nuova tecnologia Vapovent™ Light garantiscono performance ottimali, traspirabilità accentuata e allo stesso tempo termicità.",
+  "immagine": [
+    "../../assets/image/aequilibriumInsulationHoodyResize.webp",
+    "../../assets/image/aequilibriumInsulationHoody.webp",
+    "../../assets/image/aequilibriumInsulationHoodyLarge.webp",
+    "../../assets/image/aequilibriumInsulationHoodyExtra.webp",
+    "../../assets/image/aequilibriumInsulationHoodyRetroResize.webp",
+    "../../assets/image/aequilibriumInsulationHoodyRetro.webp",
+    "../../assets/image/aequilibriumInsulationHoodyFrontResize.webp",
+    "../../assets/image/aequilibriumInsulationHoodyFront.webp"
+  ],
+  "nuovo_arrivo": true,
+  "best_seller": 5
+},
+{
+  "_id": {
+    "$oid": "665756f6a8bd395db7fc2b90"
+  },
+  "nome": "Lycan II",
+  "attivita": "Mountain Running®",
+  "prezzo": 150,
+  "taglie_disponibili": [
+    "35",
+    "38",
+    "40",
+    "41",
+    "42",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Black",
+    "Blue",
+    "Turquoise",
+    "Orange",
+    "Red"
+  ],
+  "descrizione": "Calzatura da trail running perfetta per corse su medie distanze, allenamenti e skyrace. Comoda e confortevole è indicata per tutti gli amanti della corsa off-road.",
+  "immagine": [
+    "../../assets/image/lycanIIResize.webp",
+    "../../assets/image/lycanII.webp",
+    "../../assets/image/lycanIILarge.webp",
+    "../../assets/image/lycanIIExtra.webp",
+    "../../assets/image/lycanIIFrontResize.webp",
+    "../../assets/image/lycanIIFront.webp",
+    "../../assets/image/lycanIILatoResize.webp",
+    "../../assets/image/lycanIILato.webp"
+  ],
+  "nuovo_arrivo": false,
+  "best_seller": 2
+},
+{
+  "_id": {
+    "$oid": "6657570fa8bd395db7fc2b92"
+  },
+  "nome": "Finale",
+  "attivita": "Arrampicata",
+  "prezzo": 125,
+  "taglie_disponibili": [
+    "35",
+    "36",
+    "39",
+    "40",
+    "42",
+    "43"
+  ],
+  "colori_disponibili": [
+    "Black/Yellow",
+    "Blue",
+    "Blue/Black"
+  ],
+  "descrizione": "Re-design tecnico ed estetico della scarpetta d'arrampicata all-round made in Italy pensata per l’utilizzo in palestra ed in falesia. Scarpetta dal comfort accentuato, perfetta per vie lunghe.",
+  "immagine": [
+    "../../assets/image/finaleResize.webp",
+    "../../assets/image/finale.webp",
+    "../../assets/image/finaleLarge.webp",
+    "../../assets/image/finaleExtra.webp",
+    "../../assets/image/finaleFrontResize.webp",
+    "../../assets/image/finaleFront.webp",
+    "../../assets/image/finaleLatoResize.webp",
+    "../../assets/image/finaleLato.webp"
+  ],
+  "nuovo_arrivo": true,
+  "best_seller": 5
+},
+{
+  "_id": {
+    "$oid": "66575723a8bd395db7fc2b94"
+  },
+  "nome": "TX4 GTX",
+  "attivita": "Escursionismo",
+  "prezzo": 205,
+  "taglie_disponibili": [
+    "37",
+    "38",
+    "39",
+    "42",
+    "43",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Black/Yellow",
+    "Red",
+    "Blue",
+    "Blue/Black",
+    "Green"
+  ],
+  "descrizione": "Calzatura in pelle con fodera GORE-TEX Extended Comfort studiata per avvicinamenti tecnici e ferrate, appartenente alla serie approach Traverse X: ideale per utilizzo prolungato da parte di guide ed operatori di montagna.",
+  "immagine": [
+    "../../assets/image/tx4GTXResize.webp",
+    "../../assets/image/tx4GTX.webp",
+    "../../assets/image/tx4GTXLarge.webp",
+    "../../assets/image/tx4GTXExtra.webp",
+    "../../assets/image/tx4GTXFrontResize.webp",
+    "../../assets/image/tx4GTXFront.webp",
+    "../../assets/image/tx4GTXLatoResize.webp",
+    "../../assets/image/tx4GTXLato.webp"
+  ],
+  "nuovo_arrivo": false,
+  "best_seller": 5
+},
+{
+  "_id": {
+    "$oid": "66575737a8bd395db7fc2b96"
+  },
+  "nome": "TX Guide Leather",
+  "attivita": "Escursionismo",
+  "prezzo": 190,
+  "taglie_disponibili": [
+    "35",
+    "39",
+    "40",
+    "42",
+    "43",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Black/Yellow",
+    "Green",
+    "Blue/Black"
+  ],
+  "descrizione": "Versione in pelle di TX Guide e con soluzioni tecniche ed estetiche derivanti dal mondo climbing, è la calzatura da approach pensata per guide alpine ed operatori della montagna alla ricerca di un prodotto performante in avvicinamento ed arrampicata.",
+  "immagine": [
+    "../../assets/image/txGuideLeatherResize.webp",
+    "../../assets/image/txGuideLeather.webp",
+    "../../assets/image/txGuideLeatherLarge.webp",
+    "../../assets/image/txGuideLeatherExtra.webp",
+    "../../assets/image/txGuideLeatherFrontResize.webp",
+    "../../assets/image/txGuideLeatherFront.webp",
+    "../../assets/image/txGuideLeatherLatoResize.webp",
+    "../../assets/image/txGuideLeatherLato.webp"
+  ],
+  "nuovo_arrivo": true,
+  "best_seller": 3
+},
+{
+  "_id": {
+    "$oid": "6657574aa8bd395db7fc2b98"
+  },
+  "nome": "Alpine Guide Softshell",
+  "attivita": "Alpinismo",
+  "prezzo": 300,
+  "taglie_disponibili": [
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "44"
+  ],
+  "colori_disponibili": [
+    "Red",
+    "Blue",
+    "Turquoise"
+  ],
+  "descrizione": "Una giacca versatile per il quotidiano delle alpiniste più attive e delle guide alpine. Il mix tecnico di materiali e gli innovativi dettagli sono stati ritagliati esattamente sulle esigenze delle alpiniste più attive.",
+  "immagine": [
+    "../../assets/image/alpineGuideSoftshellResize.webp",
+    "../../assets/image/alpineGuideSoftshell.webp",
+    "../../assets/image/alpineGuideSoftshellLarge.webp",
+    "../../assets/image/alpineGuideSoftshellExtra.webp",
+    "../../assets/image/alpineGuideSoftshellRetroResize.webp",
+    "../../assets/image/alpineGuideSoftshellRetro.webp",
+    "../../assets/image/alpineGuideSoftshellFrontResize.webp",
+    "../../assets/image/alpineGuideSoftshellFront.webp"
+  ],
+  "nuovo_arrivo": false,
+  "best_seller": 5
+},
+{
+  "_id": {
+    "$oid": "6657575ea8bd395db7fc2b9a"
+  },
+  "nome": "Akasha II",
+  "attivita": "Mountain Running®",
+  "prezzo": 170,
+  "taglie_disponibili": [
+    "35",
+    "39",
+    "42",
+    "43",
+    "44",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Black/Yellow",
+    "Blue",
+    "Green"
+  ],
+  "descrizione": "Re-Design tecnico ed estetico per la calzatura da Mountain Running® endurance super ammortizzata e concepita per percorsi a lunga distanza, UltraMarathons ed utilizzi prolungati in allenamento.",
+  "immagine": [
+    "../../assets/image/akashaIIResize.webp",
+    "../../assets/image/cakashaII.webp",
+    "../../assets/image/akashaIILarge.webp",
+    "../../assets/image/akashaIIExtra.webp",
+    "../../assets/image/akashaIIFrontResize.webp",
+    "../../assets/image/akashaIIFront.webp",
+    "../../assets/image/akashaIILatoResize.webp",
+    "../../assets/image/akashaIILato.webp"
+  ],
+  "nuovo_arrivo": true,
+  "best_seller": 3
+},
+{
+  "_id": {
+    "$oid": "66575770a8bd395db7fc2b9c"
+  },
+  "nome": "Bushido III",
+  "attivita": "Mountain Running®",
+  "prezzo": 175,
+  "taglie_disponibili": [
+    "37",
+    "39",
+    "40",
+    "41",
+    "43",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Black/Yellow",
+    "Blue",
+    "Red"
+  ],
+  "descrizione": "Bushido III, restyling dell' iconica calzatura dedicata al mondo delle skyraces: grippante e aggressiva, è concepita per garantire una perfetta stabilità in appoggio su tutti i tipi di terreni off-road.",
+  "immagine": [
+    "../../assets/image/bushidoIIIResize.webp",
+    "../../assets/image/bushidoIII.webp",
+    "../../assets/image/bushidoIIILarge.webp",
+    "../../assets/image/bushidoIIIExtra.webp",
+    "../../assets/image/bushidoIIIFrontResize.webp",
+    "../../assets/image/bushidoIIIFront.webp",
+    "../../assets/image/bushidoIIILatoResize.webp",
+    "../../assets/image/bushidoIIILato.webp"
+  ],
+  "nuovo_arrivo": true,
+  "best_seller": 4
+},
+{
+  "_id": {
+    "$oid": "66575785a8bd395db7fc2b9e"
+  },
+  "nome": "Miura VS",
+  "attivita": "Arrampicata",
+  "prezzo": 160,
+  "taglie_disponibili": [
+    "36",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42"
+  ],
+  "colori_disponibili": [
+    "Black/Yellow",
+    "Red"
+  ],
+  "descrizione": "Scarpetta tecnica ed estremamente precisa sviluppata per gli amanti dell'arrampicata sportiva. Grazie ad una costruzione particolarmente strutturata ed alla chiusura con 3 velcri, Miura VS risulta essere un prodotto ideale per chi ricerca la massima precisione e supporto in fase di scalata.",
+  "immagine": [
+    "../../assets/image/miuraVSResize.webp",
+    "../../assets/image/miuraVS.webp",
+    "../../assets/image/miuraVSLarge.webp",
+    "../../assets/image/miuraVSExtra.webp",
+    "../../assets/image/miuraVSFrontResize.webp",
+    "../../assets/image/miuraVSFront.webp",
+    "../../assets/image/miuraVSLatoResize.webp",
+    "../../assets/image/miuraVSLato.webp"
+  ],
+  "nuovo_arrivo": false,
+  "best_seller": 4
+},
+{
+  "_id": {
+    "$oid": "66575797a8bd395db7fc2ba0"
+  },
+  "nome": "Genius",
+  "attivita": "Arrampicata",
+  "prezzo": 175,
+  "taglie_disponibili": [
+    "36",
+    "37",
+    "41",
+    "42",
+    "44",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Red",
+    "Black"
+  ],
+  "descrizione": "La sensibilità e la fluidità nei movimenti derivanti dalla tecnologia No-Edge®, abbinati alla precisione di uno dei modelli più apprezzati per l'arrampicata sportiva. Comfort, adattabilità dei volumi e altissime performance sono garantiti dalla accurata chiusura a lacci che permette di personalizzare la scarpetta al proprio piede.",
+  "immagine": [
+    "../../assets/image/geniusResize.webp",
+    "../../assets/image/genius.webp",
+    "../../assets/image/geniusLarge.webp",
+    "../../assets/image/geniusExtra.webp",
+    "../../assets/image/geniusFrontResize.webp",
+    "../../assets/image/geniusFront.webp",
+    "../../assets/image/geniusLatoResize.webp",
+    "../../assets/image/geniusLato.webp"
+  ],
+  "nuovo_arrivo": false,
+  "best_seller": 3
+},
+{
+  "_id": {
+    "$oid": "665757aaa8bd395db7fc2ba2"
+  },
+  "nome": "Cyklon",
+  "attivita": "Mountain Running®",
+  "prezzo": 190,
+  "taglie_disponibili": [
+    "35",
+    "36",
+    "38",
+    "39",
+    "43",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Black/Yellow",
+    "Blue",
+    "Red",
+    "Turquoise"
+  ],
+  "descrizione": "Calzatura performance ideale per skyraces e corse off-road su terreni tecnici a medie distanze. Frutto del lavoro di ricerca e sviluppo tra La Sportiva e BOA®, è un prodotto che garantisce stabilità, precisione ed una perfetta avvolgenza grazie al nuovo sistema di chiusura Dynamic Cage™ con BOA® Fit System integrato.",
+  "immagine": [
+    "../../assets/image/cyklonResize.webp",
+    "../../assets/image/cyklon.webp",
+    "../../assets/image/cyklonLarge.webp",
+    "../../assets/image/cyklonExtra.webp",
+    "../../assets/image/cyklonFrontResize.webp",
+    "../../assets/image/cyklonFront.webp",
+    "../../assets/image/cyklonLatoResize.webp",
+    "../../assets/image/cyklonLato.webp"
+  ],
+  "nuovo_arrivo": true,
+  "best_seller": 5
+},
+{
+  "_id": {
+    "$oid": "665757c0a8bd395db7fc2ba4"
+  },
+  "nome": "Ultra Raptor II",
+  "attivita": "Escursionismo",
+  "prezzo": 180,
+  "taglie_disponibili": [
+    "37",
+    "39",
+    "40",
+    "41",
+    "42",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Blue/Black",
+    "Black/Yellow",
+    "Green",
+    "Red",
+    "Orange"
+  ],
+  "descrizione": "Re-edit estetico dell’iconico modello Ultra Raptor, calzatura da trail running sviluppata per percorsi off-road a lunga distanza e sessioni di allenamento prolungate.",
+  "immagine": [
+    "../../assets/image/ultraRaptorIIResize.webp",
+    "../../assets/image/ultraRaptorII.webp",
+    "../../assets/image/ultraRaptorIILarge.webp",
+    "../../assets/image/ultraRaptorIIExtra.webp",
+    "../../assets/image/ultraRaptorIIFrontResize.webp",
+    "../../assets/image/ultraRaptorIIFront.webp",
+    "../../assets/image/ultraRaptorIILatoResize.webp",
+    "../../assets/image/ultraRaptorIILato.webp"
+  ],
+  "nuovo_arrivo": true,
+  "best_seller": 2
+},
+{
+  "_id": {
+    "$oid": "665757d3a8bd395db7fc2ba6"
+  },
+  "nome": "Tarantulace",
+  "attivita": "Arrampicata",
+  "prezzo": 95,
+  "taglie_disponibili": [
+    "35",
+    "36",
+    "38",
+    "39",
+    "42",
+    "43",
+    "44"
+  ],
+  "colori_disponibili": [
+    "Black/Yellow",
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "descrizione": "Scarpetta polivalente ideale per chi si avvicinaal mondo dell’arrampicata e per utilizzo nelle palestre. Allacciatura a scorrimento rapidoveloce e funzionale. Forma neutrale adatta a tutti i tipi di piede. Ottima regolazione dei volumi.",
+  "immagine": [
+    "../../assets/image/tarantulaceResize.webp",
+    "../../assets/image/tarantulace.webp",
+    "../../assets/image/tarantulaceLarge.webp",
+    "../../assets/image/tarantulaceExtra.webp",
+    "../../assets/image/tarantulaceFrontResize.webp",
+    "../../assets/image/tarantulaceFront.webp",
+    "../../assets/image/tarantulaceLatoResize.webp",
+    "../../assets/image/tarantulaceLato.webp"
+  ],
+  "nuovo_arrivo": false,
+  "best_seller": 4
+},
+{
+  "_id": {
+    "$oid": "665757e7a8bd395db7fc2ba8"
+  },
+  "nome": "Spire GTX",
+  "attivita": "Escursionismo",
+  "prezzo": 150,
+  "taglie_disponibili": [
+    "39",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Blue",
+    "Black",
+    "Black/Yellow",
+    "Turquoise"
+  ],
+  "descrizione": "Calzatura low-cut di nuova generazione per l’escursionismo veloce. Adotta soluzioni che sono parte del DNA mountain La Sportiva combinandole a tecnologie e concetti di derivazione Mountain Running per un prodotto versatile, impermeabile e super traspirante grazie alla nuova tecnologia GORE-TEX SURROUND®.",
+  "immagine": [
+    "../../assets/image/spireGTXResize.webp",
+    "../../assets/image/spireGTX.webp",
+    "../../assets/image/spireGTXLarge.webp",
+    "../../assets/image/spireGTXExtra.webp",
+    "../../assets/image/spireGTXFrontResize.webp",
+    "../../assets/image/spireGTXFront.webp",
+    "../../assets/image/spireGTXLatoResize.webp",
+    "../../assets/image/spireGTXLato.webp"
+  ],
+  "nuovo_arrivo": false,
+  "best_seller": 2
+},
+{
+  "_id": {
+    "$oid": "6657580ba8bd395db7fc2baa"
+  },
+  "nome": "TX Hike Mid GTX",
+  "attivita": "Escursionismo",
+  "prezzo": 150,
+  "taglie_disponibili": [
+    "37",
+    "38",
+    "39",
+    "41",
+    "42",
+    "43"
+  ],
+  "colori_disponibili": [
+    "Black",
+    "Green",
+    "Black/Yellow"
+  ],
+  "descrizione": "Scarponcino dedicato al fast hiking realizzato con componenti eco-compatibili. Combina soluzioni proprie del DNA Mountain La Sportiva con tecnologie di derivazione Mountain Running® per un prodotto polivalente e sostenibile.",
+  "immagine": [
+    "../../assets/image/TXHikeMidGTXResize.webp",
+    "../../assets/image/TXHikeMidGTX.webp",
+    "../../assets/image/TXHikeMidGTXLarge.webp",
+    "../../assets/image/TXHikeMidGTXExtra.webp",
+    "../../assets/image/TXHikeMidGTXFrontResize.webp",
+    "../../assets/image/TXHikeMidGTXFront.webp",
+    "../../assets/image/TXHikeMidGTXLatoResize.webp",
+    "../../assets/image/TXHikeMidGTXLato.webp"
+  ],
+  "nuovo_arrivo": true,
+  "best_seller": 4
+},
+{
+  "_id": {
+    "$oid": "6657581fa8bd395db7fc2bac"
+  },
+  "nome": "Cobra",
+  "attivita": "Arrampicata",
+  "prezzo": 100,
+  "taglie_disponibili": [
+    "35",
+    "39",
+    "40",
+    "41",
+    "43",
+    "44"
+  ],
+  "colori_disponibili": [
+    "Orange",
+    "Black/Yellow",
+    "Blue",
+    "Turquoise"
+  ],
+  "descrizione": "Sensibile, aderente, e facile da spalmare sulle varie forme della roccia, Cobra è la scarpetta d’arrampicata perfetta per utilizzi indoor e per l’arrampicata speed. Obiettivo Tokyo 2020!",
+  "immagine": [
+    "../../assets/image/cobraResize.webp",
+    "../../assets/image/cobra.webp",
+    "../../assets/image/cobraLarge.webp",
+    "../../assets/image/cobraExtra.webp",
+    "../../assets/image/cobraFrontResize.webp",
+    "../../assets/image/cobraFront.webp",
+    "../../assets/image/cobraLatoResize.webp",
+    "../../assets/image/cobraLato.webp"
+  ],
+  "nuovo_arrivo": true,
+  "best_seller": 5
+},
+{
+  "_id": {
+    "$oid": "66575830a8bd395db7fc2bae"
+  },
+  "nome": "Miura",
+  "attivita": "Arrampicata",
+  "prezzo": 150,
+  "taglie_disponibili": [
+    "35",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41"
+  ],
+  "colori_disponibili": [
+    "Black/Yellow",
+    "Green",
+    "Red"
+  ],
+  "descrizione": "Scarpetta tecnica ed estremamente precisa sviluppata per gli amanti dell'arrampicata sportiva. Grazie ad una costruzione particolarmente strutturata ed alla chiusura con 3 velcri, Miura VS risulta essere un prodotto ideale per chi ricerca la massima precisione e supporto in fase di scalata.",
+  "immagine": [
+    "../../assets/image/miuraResize.webp",
+    "../../assets/image/miura.webp",
+    "../../assets/image/miuraLarge.webp",
+    "../../assets/image/miuraExtra.webp",
+    "../../assets/image/miuraFrontResize.webp",
+    "../../assets/image/miuraFront.webp",
+    "../../assets/image/miuraLatoResize.webp",
+    "../../assets/image/miuraLato.webp"
+  ],
+  "nuovo_arrivo": true,
+  "best_seller": 5
+},
+{
+  "_id": {
+    "$oid": "66575844a8bd395db7fc2bb0"
+  },
+  "nome": "Supercouloir GTX Pro",
+  "attivita": "Alpinismo",
+  "prezzo": 600,
+  "taglie_disponibili": [
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43"
+  ],
+  "colori_disponibili": [
+    "Black/Yellow",
+    "Blue",
+    "Red"
+  ],
+  "descrizione": "Guscio stato dell'arte sviluppato per l'arrampicata su ghiaccio e l'alpinismo tecnico invernale. Totale libertà di movimento garantita dalla costruzione articolata della spalla. Abbinamento dei migliori materiali disponibili sul mercato per garantire robustezza, durabilità e affidabilità in qualsiasi condizione meteorologica.",
+  "immagine": [
+    "../../assets/image/supercouloirGTXProResize.webp",
+    "../../assets/image/supercouloirGTXPro.webp",
+    "../../assets/image/supercouloirGTXProLarge.webp",
+    "../../assets/image/supercouloirGTXProExtra.webp",
+    "../../assets/image/supercouloirGTXProRetroResize.webp",
+    "../../assets/image/supercouloirGTXProRetro.webp",
+    "../../assets/image/supercouloirGTXProFrontResize.webp",
+    "../../assets/image/supercouloirGTXProFront.webp"
+  ],
+  "nuovo_arrivo": true,
+  "best_seller": 3
+},
+{
+  "_id": {
+    "$oid": "66575854a8bd395db7fc2bb2"
+  },
+  "nome": "Prodigio",
+  "attivita": "Mountain Running®",
+  "prezzo": 160,
+  "taglie_disponibili": [
+    "36",
+    "38",
+    "39",
+    "42",
+    "44",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Black/Yellow",
+    "Blue",
+    "Turquoise"
+  ],
+  "descrizione": "Prodotto rivoluzionario dedicato al mondo Ultra Trail di La Sportiva.Nuova schiuma XFLow™, studiata e sviluppata per garantire massima ammortizzazione e ritorno di energia chilometro dopo chilometro.",
+  "immagine": [
+    "../../assets/image/prodigioResize.webp",
+    "../../assets/image/prodigio.webp",
+    "../../assets/image/prodigioLarge.webp",
+    "../../assets/image/prodigioExtra.webp",
+    "../../assets/image/prodigioFrontResize.webp",
+    "../../assets/image/prodigioFront.webp",
+    "../../assets/image/prodigioLatoResize.webp",
+    "../../assets/image/prodigioLato.webp"
+  ],
+  "nuovo_arrivo": false,
+  "best_seller": 3
+},
+{
+  "_id": {
+    "$oid": "66575867a8bd395db7fc2bb4"
+  },
+  "nome": "Descender Dtorm Jkt",
+  "attivita": "Scialpinismo",
+  "prezzo": 175,
+  "taglie_disponibili": [
+    "38",
+    "39",
+    "42",
+    "43",
+    "44",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Black/Yellow",
+    "Black",
+    "Blue"
+  ],
+  "descrizione": "La Descender Storm Jacket è una giacca realizzata con il nostro nuovo pile Techstretch Storm. Offre una protezione antivento integrale e una leggera idrorepellenza, con un peso minimo e una buona gestione dell'umidità quando ti muovi in montagna. Questo capo tecnico con zip integrale e molteplici tasche è stato progettato e realizzato con la massima attenzione ai dettagli.",
+  "immagine": [
+    "../../assets/image/descenderStormJktResize.webp",
+    "../../assets/image/descenderStormJkt.webp",
+    "../../assets/image/descenderStormJktLarge.webp",
+    "../../assets/image/descenderStormJktExtra.webp",
+    "../../assets/image/descenderStormJktRetroResize.webp",
+    "../../assets/image/descenderStormJktRetro.webp",
+    "../../assets/image/descenderStormJktLatoResize.webp",
+    "../../assets/image/descenderStormJktLato.webp"
+  ],
+  "nuovo_arrivo": true,
+  "best_seller": 3
+},
+{
+  "_id": {
+    "$oid": "66575879a8bd395db7fc2bb6"
+  },
+  "nome": "Trango Tech Teather W ",
+  "attivita": "Alpinismo",
+  "prezzo": 260,
+  "taglie_disponibili": [
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43"
+  ],
+  "colori_disponibili": [
+    "Black/Yellow",
+    "Red",
+    "Green",
+    "Blue",
+    "Black"
+  ],
+  "descrizione": "Scarponcino in pelle traspirante ed impermeabile, pensato per escursionismo alpino: particolarmente leggero, confortevole e durevole grazie alla tomaia in nubuck. Perfetto per avvicinamenti tecnici ed utilizzi lavorativi da parte di soccorritori e guide alpine.",
+  "immagine": [
+    "../../assets/image/trangoTechLeatherWResize.webp",
+    "../../assets/image/trangoTechLeatherW.webp",
+    "../../assets/image/trangoTechLeatherWLarge.webp",
+    "../../assets/image/trangoTechLeatherWExtra.webp",
+    "../../assets/image/trangoTechLeatherWRetroResize.webp",
+    "../../assets/image/trangoTechLeatherWRetro.webp",
+    "../../assets/image/trangoTechLeatherWFrontResize.webp",
+    "../../assets/image/trangoTechLeatherWFront.webp"
+  ],
+  "nuovo_arrivo": false,
+  "best_seller": 4
+},
+{
+  "_id": {
+    "$oid": "6657588aa8bd395db7fc2bb8"
+  },
+  "nome": "Skwama",
+  "attivita": "Arrampicata",
+  "prezzo": 160,
+  "taglie_disponibili": [
+    "35",
+    "36",
+    "37",
+    "41",
+    "44",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Black/Yellow",
+    "Red"
+  ],
+  "descrizione": "Scarpetta d’arrampicata sensibile, fasciante e flessibile, ideale per utilizzo performance sia su roccia che in palestra indoor, pensata per utilizzi su pareti strapiombanti e su placche.",
+  "immagine": [
+    "../../assets/image/skwamaResize.webp",
+    "../../assets/image/skwama.webp",
+    "../../assets/image/skwamaLarge.webp",
+    "../../assets/image/skwamaExtra.webp",
+    "../../assets/image/skwamaFrontResize.webp",
+    "../../assets/image/skwamaFront.webp",
+    "../../assets/image/skwamaLatoResize.webp",
+    "../../assets/image/skwamaLato.webp"
+  ],
+  "nuovo_arrivo": false,
+  "best_seller": 5
+},
+{
+  "_id": {
+    "$oid": "6657589ca8bd395db7fc2bba"
+  },
+  "nome": "Stellar II",
+  "attivita": "Scialpinismo",
+  "prezzo": 500,
+  "taglie_disponibili": [
+    "38",
+    "39",
+    "40",
+    "42",
+    "44",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Black"
+  ],
+  "descrizione": "Scarpone femminile dedicato alle scialpiniste all-round alla ricerca del miglior mix tra prestazioni in salita, discesa e comfort. La facilità d'uso, data anche dal sistema di chiusura BOA® Fit System facile, veloce e preciso, lo rende ideale anche per chi si avvicina allo scialpinismo per la prima volta. Leggerezza, libertà di movimento e un'ottima camminabilità consentono di percorrere dislivelli importanti senza affaticare la gamba.",
+  "immagine": [
+    "../../assets/image/stellarIIResize.webp",
+    "../../assets/image/stellarII.webp",
+    "../../assets/image/stellarIILarge.webp",
+    "../../assets/image/stellarIIExtra.webp",
+    "../../assets/image/stellarIIFrontResize.webp",
+    "../../assets/image/stellarIIFront.webp",
+    "../../assets/image/stellarIILatoResize.webp",
+    "../../assets/image/stellarIILato.webp"
+  ],
+  "nuovo_arrivo": true,
+  "best_seller": 4
+},
+{
+  "_id": {
+    "$oid": "665758b2a8bd395db7fc2bbc"
+  },
+  "nome": "Tarantula Boulder",
+  "attivita": "Arrampicata",
+  "prezzo": 100,
+  "taglie_disponibili": [
+    "35",
+    "37",
+    "38",
+    "40",
+    "41",
+    "42"
+  ],
+  "colori_disponibili": [
+    "Blue/Black",
+    "Red"
+  ],
+  "descrizione": "Scarpetta d'arrampicata beginner sviluppata appositamente per il mondo del boulder. La forma neutrale rende questo prodotto adatto a tutti i tipi di piede.",
+  "immagine": [
+    "../../assets/image/tarantulaBoulderResize.webp",
+    "../../assets/image/tarantulaBoulder.webp",
+    "../../assets/image/tarantulaBoulderLarge.webp",
+    "../../assets/image/tarantulaBoulderExtra.webp",
+    "../../assets/image/tarantulaBoulderFrontResize.webp",
+    "../../assets/image/tarantulaBoulderFront.webp",
+    "../../assets/image/tarantulaBoulderLatoResize.webp",
+    "../../assets/image/tarantulaBoulderLato.webp"
+  ],
+  "nuovo_arrivo": true,
+  "best_seller": 4
+},
+{
+  "_id": {
+    "$oid": "665758c6a8bd395db7fc2bbe"
+  },
+  "nome": "Python",
+  "attivita": "Arrampicata",
+  "prezzo": 140,
+  "taglie_disponibili": [
+    "35",
+    "36",
+    "38",
+    "39",
+    "41",
+    "42"
+  ],
+  "colori_disponibili": [
+    "Orange",
+    "Turquoise",
+    "Black/Yellow"
+  ],
+  "descrizione": "Nuovo design per Python la scarpetta d’arrampicata sportiva pensata per il mondo delle competizioni e per utilizzi indoor su pareti artificiali dove è richiesta massima sensibilità.",
+  "immagine": [
+    "../../assets/image/pythonResize.webp",
+    "../../assets/image/python.webp",
+    "../../assets/image/pythonLarge.webp",
+    "../../assets/image/pythonExtra.webp",
+    "../../assets/image/pythonFrontResize.webp",
+    "../../assets/image/pythonFront.webp",
+    "../../assets/image/pythonLatoResize.webp",
+    "../../assets/image/pythonLato.webp"
+  ],
+  "nuovo_arrivo": false,
+  "best_seller": 3
+},
+{
+  "_id": {
+    "$oid": "665758d7a8bd395db7fc2bc0"
+  },
+  "nome": "Karacal",
+  "attivita": "Mountain Running®",
+  "prezzo": 90,
+  "taglie_disponibili": [
+    "37",
+    "39",
+    "40",
+    "42",
+    "44",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Blue",
+    "Orange",
+    "Black/Yellow",
+    "Turquoise"
+  ],
+  "descrizione": "Training shoe dedicata ad utilizzi trail running è concepita per allenamenti prolungati su medie e lunghe distanze ed è perfetta per il recupero post gara grazie all’eccezionale comfort di calzata e all’elevata traspirabilità.",
+  "immagine": [
+    "../../assets/image/karacalResize.webp",
+    "../../assets/image/karacal.webp",
+    "../../assets/image/karacalLarge.webp",
+    "../../assets/image/karacalExtra.webp",
+    "../../assets/image/karacalFrontResize.webp",
+    "../../assets/image/karacalFront.webp",
+    "../../assets/image/karacalLatoResize.webp",
+    "../../assets/image/karacalLato.webp"
+  ],
+  "nuovo_arrivo": false,
+  "best_seller": 5
+},
+{
+  "_id": {
+    "$oid": "665758eea8bd395db7fc2bc2"
+  },
+  "nome": "Ultra Raptor II GTX",
+  "attivita": "Escursionismo",
+  "prezzo": 200,
+  "taglie_disponibili": [
+    "35",
+    "36",
+    "40",
+    "42",
+    "44",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Black/Yellow",
+    "Orange",
+    "Turquoise",
+    "Green",
+    "Red",
+    "Blue"
+  ],
+  "descrizione": "Re-edit estetico e con membrana GORE-TEX Extended Comfort, del celebre modello Ultra Raptor, calzatura da mountain hiking sviluppata per percorsi off-road a lunga distanza anche nei mesi invernali.",
+  "immagine": [
+    "../../assets/image/ultraRaptorIIGTXResize.webp",
+    "../../assets/image/ultraRaptorIIGTX.webp",
+    "../../assets/image/ultraRaptorIIGTXLarge.webp",
+    "../../assets/image/ultraRaptorIIGTXExtra.webp",
+    "../../assets/image/ultraRaptorIIGTXFrontResize.webp",
+    "../../assets/image/ultraRaptorIIGTXFront.webp",
+    "../../assets/image/ultraRaptorIIGTXLatoResize.webp",
+    "../../assets/image/ultraRaptorIIGTXLato.webp"
+  ],
+  "nuovo_arrivo": true,
+  "best_seller": 5
+},
+{
+  "_id": {
+    "$oid": "665758fea8bd395db7fc2bc4"
+  },
+  "nome": "Bivouac Down Jkt",
+  "attivita": "Scialpinismo",
+  "prezzo": 300,
+  "taglie_disponibili": [
+    "40",
+    "41",
+    "42",
+    "44",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Black/Yellow",
+    "Black",
+    "Blue",
+    "Red"
+  ],
+  "descrizione": "Capo imbottito in piuma riciclata dedicato allo sci alpinismo garantisce massima termicità e protezione.",
+  "immagine": [
+    "../../assets/image/bivouacDownJktResize.webp",
+    "../../assets/image/bivouacDownJkt.webp",
+    "../../assets/image/bivouacDownJktLarge.webp",
+    "../../assets/image/bivouacDownJktExtra.webp",
+    "../../assets/image/bivouacDownJktRetroResize.webp",
+    "../../assets/image/bivouacDownJktRetro.webp",
+    "../../assets/image/bivouacDownJktResize.webp",
+    "../../assets/image/bivouacDownJkto.webp"
+  ],
+  "nuovo_arrivo": true,
+  "best_seller": 4
+},
+{
+  "_id": {
+    "$oid": "6657590fa8bd395db7fc2bc6"
+  },
+  "nome": "Solar II",
+  "attivita": "Scialpinismo",
+  "prezzo": 550,
+  "taglie_disponibili": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Black/Yellow",
+    "Black"
+  ],
+  "descrizione": "Scarpone dedicato a scialpinisti all-round alla ricerca del miglior mix tra prestazioni in salita, discesa e comfort. La facilità d'uso, data anche dal sistema di chiusura BOA® Fit System facile, veloce e preciso, lo rende ideale anche per chi si avvicina allo scialpinismo per la prima volta. Leggerezza, libertà di movimento e un'ottima camminabilità consentono di percorrere dislivelli importanti senza affaticare la gamba.",
+  "immagine": [
+    "../../assets/image/solarIIResize.webp",
+    "../../assets/image/solarII.webp",
+    "../../assets/image/solarIILarge.webp",
+    "../../assets/image/solarIIExtra.webp",
+    "../../assets/image/solarIIFrontResize.webp",
+    "../../assets/image/solarIIFront.webp",
+    "../../assets/image/solarIILatoResize.webp",
+    "../../assets/image/solarIILato.webp"
+  ],
+  "nuovo_arrivo": false,
+  "best_seller": 2
+},
+{
+  "_id": {
+    "$oid": "6657591fa8bd395db7fc2bc8"
+  },
+  "nome": "Helios III",
+  "attivita": "Mountain Running®",
+  "prezzo": 90,
+  "taglie_disponibili": [
+    "38",
+    "39",
+    "40",
+    "41",
+    "43",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Blue",
+    "Black/Yellow",
+    "Turquoise",
+    "Orange",
+    "Black"
+  ],
+  "descrizione": "Calzatura “door to trail” concepita per allenamenti e corsa su terreni duri off-road.",
+  "immagine": [
+    "../../assets/image/heliosIIIResize.webp",
+    "../../assets/image/heliosIII.webp",
+    "../../assets/image/heliosIIILarge.webp",
+    "../../assets/image/heliosIIIExtra.webp",
+    "../../assets/image/heliosIIIFrontResize.webp",
+    "../../assets/image/heliosIIIFront.webp",
+    "../../assets/image/heliosIIILatoResize.webp",
+    "../../assets/image/heliosIIILato.webp"
+  ],
+  "nuovo_arrivo": false,
+  "best_seller": 5
+},
+{
+  "_id": {
+    "$oid": "66575931a8bd395db7fc2bca"
+  },
+  "nome": "TX5 Low GTX",
+  "attivita": "Escursionismo",
+  "prezzo": 215,
+  "taglie_disponibili": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Blue",
+    "Orange",
+    "Black/Yellow",
+    "Black"
+  ],
+  "descrizione": "Calzatura in pelle appartenente alla linea TX Series dedicata ad hikers alla ricerca di un prodotto tecnico per avvicinamenti, escursionismo e vie ferrate. Leggera e protettiva è impermeabile e traspirante grazie alla membrana GORE-TEX.",
+  "immagine": [
+    "../../assets/image/TX5LowGTXResize.webp",
+    "../../assets/image/TX5LowGTX.webp",
+    "../../assets/image/TX5LowGTXLarge.webp",
+    "../../assets/image/TX5LowGTXExtra.webp",
+    "../../assets/image/TX5LowGTXFrontResize.webp",
+    "../../assets/image/TX5LowGTXFront.webp",
+    "../../assets/image/TX5LowGTXLatoResize.webp",
+    "../../assets/image/TX5LowGTXLato.webp"
+  ],
+  "nuovo_arrivo": false,
+  "best_seller": 4
+},
+{
+  "_id": {
+    "$oid": "66575943a8bd395db7fc2bcc"
+  },
+  "nome": "Supercouloir 1000 Down",
+  "attivita": "Alpinismo",
+  "prezzo": 300,
+  "taglie_disponibili": [
+    "38",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+  ],
+  "colori_disponibili": [
+    "Orange",
+    "Turquoise"
+  ],
+  "descrizione": "Capo innovativo imbottito dedicato all'alpinismo tecnico. Mix di materiali che garantiscono massima leggerezza, comprimibilità e libertà di movimento.",
+  "immagine": [
+    "../../assets/image/supercouloir1000DownResize.webp",
+    "../../assets/image/supercouloir1000Down.webp",
+    "../../assets/image/supercouloir1000DownLarge.webp",
+    "../../assets/image/supercouloir1000DownExtra.webp",
+    "../../assets/image/supercouloir1000DownRetroResize.webp",
+    "../../assets/image/supercouloir1000DownRetro.webp",
+    "../../assets/image/supercouloir1000DownFrontResize.webp",
+    "../../assets/image/supercouloir1000DownFront.webp"
+  ],
+  "nuovo_arrivo": false,
+  "best_seller": 2
+},
+{
+  "_id": {
+    "$oid": "66575956a8bd395db7fc2bce"
+  },
+  "nome": "Ultra Raptor II Leather GTX",
+  "attivita": "Escursionismo",
+  "prezzo": 210,
+  "taglie_disponibili": [
+    "38",
+    "39",
+    "42",
+    "43",
+    "44",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Black/Yellow",
+    "Blue",
+    "Red",
+    "Orange"
+  ],
+  "descrizione": "Versione 2.0 e con tomaia in pelle Nubuck del celebre modello Ultra Raptor, perfetta per utilizzi su terreni off-road e camminate in montagna anche su lunghe distanze. Traspirante ed impermeabile come uno scarponcino da hiking grazie alla membrana GORE-TEX Extended Comfort.",
+  "immagine": [
+    "../../assets/image/ultraRaptorIILeatherGTXResize.webp",
+    "../../assets/image/ultraRaptorIILeatherGTX.webp",
+    "../../assets/image/ultraRaptorIILeatherGTXLarge.webp",
+    "../../assets/image/ultraRaptorIILeatherGTXExtra.webp",
+    "../../assets/image/ultraRaptorIILeatherGTXFrontResize.webp",
+    "../../assets/image/ultraRaptorIILeatherGTXFront.webp",
+    "../../assets/image/ultraRaptorIILeatherGTXLatoResize.webp",
+    "../../assets/image/ultraRaptorIILeatherGTXLato.webp"
+  ],
+  "nuovo_arrivo": false,
+  "best_seller": 3
+},
+{
+  "_id": {
+    "$oid": "66575968a8bd395db7fc2bd0"
+  },
+  "nome": "Akyra",
+  "attivita": "Mountain Running®",
+  "prezzo": 185,
+  "taglie_disponibili": [
+    "35",
+    "37",
+    "38",
+    "39",
+    "40",
+    "43"
+  ],
+  "colori_disponibili": [
+    "Black",
+    "Turquoise",
+    "Green"
+  ],
+  "descrizione": "Akyra è la calzatura da mountain running strutturata e protettiva adatta a percorsi endurance quali Ultra Trails ed Ultra Marathons. Particolarmente avvolgente, confortevole e protettiva, è una scarpa da trail concepita per utilizzi prolungati su terreni off-road.",
+  "immagine": [
+    "../../assets/image/akyraResize.webp",
+    "../../assets/image/akyra.webp",
+    "../../assets/image/akyraLarge.webp",
+    "../../assets/image/akyraExtra.webp",
+    "../../assets/image/akyraFrontResize.webp",
+    "../../assets/image/akyraFront.webp",
+    "../../assets/image/akyraLatoResize.webp",
+    "../../assets/image/akyraLato.webp"
+  ],
+  "nuovo_arrivo": false,
+  "best_seller": 2
+},
+{
+  "_id": {
+    "$oid": "6657597aa8bd395db7fc2bd2"
+  },
+  "nome": "Katana Laces",
+  "attivita": "Arrampicata",
+  "prezzo": 170,
+  "taglie_disponibili": [
+    "38",
+    "39",
+    "42",
+    "43",
+    "44",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Turquoise",
+    "Red",
+    "Blue"
+  ],
+  "descrizione": "Evoluzione tecnica ed estetica di Katana Laces: scarpetta polivalente e performante adatta a qualsiasi tipo di superficie e tipologia di arrampicata. Maggiore precisione in punta e maggiore precisione e sensibilità nei tallonaggi. La versione women in colorazione unisex, si differenzia negli elementi costruttivi come la mezza suola, ed è pensata per climber dal peso ridotto.",
+  "immagine": [
+    "../../assets/image/katanaLacesResize.webp",
+    "../../assets/image/katanaLaces.webp",
+    "../../assets/image/katanaLacesLarge.webp",
+    "../../assets/image/katanaLacesExtra.webp",
+    "../../assets/image/katanaLacesFrontResize.webp",
+    "../../assets/image/katanaLacesFront.webp",
+    "../../assets/image/katanaLacesLatoResize.webp",
+    "../../assets/image/katanaLacesLato.webp"
+  ],
+  "nuovo_arrivo": false,
+  "best_seller": 5
+},
+{
+  "_id": {
+    "$oid": "66575989a8bd395db7fc2bd4"
+  },
+  "nome": "Aequilibrium LT GTX",
+  "attivita": "Alpinismo",
+  "prezzo": 350,
+  "taglie_disponibili": [
+    "39",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Black/Yellow",
+    "Black",
+    "Orange"
+  ],
+  "descrizione": "Scarpone da escursionismo tecnico, ideale per backpacking e camminate di più giorni in quota.",
+  "immagine": [
+    "../../assets/image/aequilibriumLTGTXResize.webp",
+    "../../assets/image/aequilibriumLTGTXPro.webp",
+    "../../assets/image/aequilibriumLTGTXProLarge.webp",
+    "../../assets/image/aequilibriumLTGTXExtra.webp",
+    "../../assets/image/aequilibriumLTGTXRetroResize.webp",
+    "../../assets/image/aequilibriumLTGTXRetro.webp",
+    "../../assets/image/aequilibriumLTGTXFrontResize.webp",
+    "../../assets/image/aequilibriumLTGTXFront.webp"
+  ],
+  "nuovo_arrivo": false,
+  "best_seller": 2
+},
+{
+  "_id": {
+    "$oid": "66575998a8bd395db7fc2bd6"
+  },
+  "nome": "Trango Trk GTX",
+  "attivita": "Alpinismo",
+  "prezzo": 350,
+  "taglie_disponibili": [
+    "36",
+    "37",
+    "40",
+    "42",
+    "43",
+    "44"
+  ],
+  "colori_disponibili": [
+    "Blue/Black",
+    "Black",
+    "Green",
+    "Red"
+  ],
+  "descrizione": "Scarpone da trekking e backpacking con look e tecnologia derivati dalla famiglia Trango. Realizzato con componenti riciclati (lacci e sottopiede), è concepito per percorsi su sentieri sterrati, camminate nei boschi ed escursioni con zaino a pieno carico.",
+  "immagine": [
+    "../../assets/image/trangoTrkGTXResize.webp",
+    "../../assets/image/trangoTrkGTX.webp",
+    "../../assets/image/trangoTrkGTXLarge.webp",
+    "../../assets/image/trangoTrkGTXExtra.webp",
+    "../../assets/image/trangoTrkGTXRetroResize.webp",
+    "../../assets/image/trangoTrkGTXRetro.webp",
+    "../../assets/image/trangoTrkGTXFrontResize.webp",
+    "../../assets/image/trangoTrkGTXFront.webp"
+  ],
+  "nuovo_arrivo": false,
+  "best_seller": 5
+},
+{
+  "_id": {
+    "$oid": "665759b0a8bd395db7fc2bd8"
+  },
+  "nome": "TSX GTX",
+  "attivita": "Escursionismo",
+  "prezzo": 230,
+  "taglie_disponibili": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "44",
+    "45"
+  ],
+  "colori_disponibili": [
+    "Black",
+    "Black/Yellow",
+    "Blue/Black"
+  ],
+  "descrizione": "Scarponcino tecnico da hiking e backpacking anche con zaini a pieno carico, perfetto per utilizzi su vie ferrate ed avvicinamenti tecnici su terreni duri e rocciosi. Confortevole, leggero, impermeabile e traspirante.",
+  "immagine": [
+    "../../assets/image/txsGTXResize.webp",
+    "../../assets/image/txsGTX.webp",
+    "../../assets/image/txsGTXLarge.webp",
+    "../../assets/image/txsGTXExtra.webp",
+    "../../assets/image/txsGTXFrontResize.webp",
+    "../../assets/image/txsGTXFront.webp",
+    "../../assets/image/txsGTXLatoResize.webp",
+    "../../assets/image/txsGTXLato.webp"
+  ],
+  "nuovo_arrivo": false,
+  "best_seller": 5
+},
+{
+  "_id": {
+    "$oid": "665759dfa8bd395db7fc2bda"
+  },
+  "nome": "Stream GTX",
+  "attivita": "Escursionismo",
+  "prezzo": 230,
+  "taglie_disponibili": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+  ],
+  "colori_disponibili": [
+    "Orange",
+    "Green",
+    "Black",
+    "Black/Yellow"
+  ],
+  "descrizione": "Scarponcino fast hiking di taglio mid per l’escursionismo veloce. Adotta soluzioni che sono parte del DNA mountain La Sportiva combinandole a tecnologie e concetti di derivazione Mountain Running per un prodotto versatile, impermeabile e super traspirante grazie alla nuova tecnologia GORE-TEX SURROUND®",
+  "immagine": [
+    "../../assets/image/streamGTXResize.webp",
+    "../../assets/image/streamGTX.webp",
+    "../../assets/image/streamGTXLarge.webp",
+    "../../assets/image/streamGTXExtra.webp",
+    "../../assets/image/streamGTXFrontResize.webp",
+    "../../assets/image/streamGTXFront.webp",
+    "../../assets/image/streamGTXLatoResize.webp",
+    "../../assets/image/streamGTXLato.webp"
+  ],
+  "nuovo_arrivo": true,
+  "best_seller": 3
+},
+{
+  "_id": {
+    "$oid": "665759eea8bd395db7fc2bdc"
+  },
+  "nome": "Vega",
+  "attivita": "Scialpinismo",
+  "prezzo": 500,
+  "taglie_disponibili": [
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42"
+  ],
+  "colori_disponibili": [
+    "Black/Yellow",
+    "Black"
+  ],
+  "descrizione": "Vega Man è lo scarpone da sci-alpinismo a quattro ganci evoluto dedicato a skialper e free-rider alla ricerca della perfetta combinazione tra la potenza, il controllo, la resistenza e la precisione di uno scarpone da discesa, con le doti di mobilità, manovrabilità e leggerezza di uno scarpone da sci-alpinismo di nuova generazione.",
+  "immagine": [
+    "../../assets/image/vegaResize.webp",
+    "../../assets/image/vega.webp",
+    "../../assets/image/vegaLarge.webp",
+    "../../assets/image/vegaExtra.webp",
+    "../../assets/image/vegaFrontResize.webp",
+    "../../assets/image/vegaFront.webp",
+    "../../assets/image/vegaLatoResize.webp",
+    "../../assets/image/vegaLato.webp"
+  ],
+  "nuovo_arrivo": true,
+  "best_seller": 4
+}]
